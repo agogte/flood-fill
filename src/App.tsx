@@ -1,7 +1,7 @@
 import { useRef, useState } from "react";
 import Grid from "./components/Grid";
 
-const GRID_SIZE = 25;
+const GRID_SIZE = 20;
 
 enum CellType {
   Empty = 0,
